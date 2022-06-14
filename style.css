@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #121212;
+    color: lightgreen;
+    font-family: arial;
+}
+
+div {
+    padding: 10px;
+    background-color: darkslategray;
+    margin: 1em 30em;
+    border-radius: 5px;
+}
+
+p {
+    display: inline;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+input {
+    border-radius: 5px;
+    background-color: lightslategray;
+}
+
+input::-webkit-inner-spin-button, ::-webkit-outer-spin-button {
+    appearance: none;
+}
